@@ -1,1 +1,1 @@
-# nurse-chart-program
+# 간호사 차트 관리 프로그램
