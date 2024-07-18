@@ -8,7 +8,18 @@
 **간호사 차트 관리 프로그램은, 이러한 차트 프로그램에 기록되는 정보의 유형과 그 정보의 배치 방식의 궁금증에서 시작하였습니다.**
 >
 
+<br>
+
 ### 개발 인원
+
 > | 우승훈 | 장채윤 |
 > | :------: | :------: |
-> | [@bluewhale36](http://github.com/bluewhale36) | [@guncat-02](http://github.com/guncat-02) |
+> | [<img src="https://github.com/user-attachments/assets/1adb797b-7b40-4eee-bb6b-246e9488dcce" width="175" height="175"> <br> @bluewhale36](http://github.com/bluewhale36) | [@guncat-02](http://github.com/guncat-02) |
+
+<br>
+
+### 개발 환경
+
+> | BE | DBMS | Driver | Tool |
+> | :---: | :---: | :---: | :---: |
+> | <img src="https://img.shields.io/badge/Java-F80000?style=flat&logoColor=white"/> | <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/> | <img src="https://img.shields.io/badge/JDBC-F80000?style=flat&logoColor=white"/> | <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/> |
