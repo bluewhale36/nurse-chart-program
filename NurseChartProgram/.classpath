@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="NurseChartProgram/src"/>
+	<classpathentry kind="lib" path="C:/Users/human-08/Desktop/java/eclipse-jee-photon-R-win32-x86_64/java/src/ojdbc6.jar"/>
+	<classpathentry kind="output" path="NurseChartProgram/bin"/>
+</classpath>
