@@ -3,6 +3,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0eb04cc1-21a2-40b2-b4d2-09c929ebd082" />
+</div>
+
+<br>
+
 ## 프로젝트 개요
 
 > 간호사의 친절한 환자 응대는 환자의 재방문 의사를 높임과 동시에 병원의 이익을 높이는 중요한 요소입니다.<br>
