@@ -28,7 +28,7 @@
 
 <br>
 
-## 개발 환경
+## 주요 기능
 
 ### Java : JDK 1.8
 - javax.swing package를 이용하여 그래픽 기반의 유저 인터페이스 구현
@@ -39,5 +39,3 @@
 - DB Connection을 얻는 클래스를 별도 분리하여 DAO 클래스에서의 사용성 확장
 ### Oracle : oracle-xe-11gR2
 - trigger
-### Tool
-- ssipdduck?
