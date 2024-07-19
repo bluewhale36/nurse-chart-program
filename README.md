@@ -5,6 +5,9 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0eb04cc1-21a2-40b2-b4d2-09c929ebd082" />
+  <div align="left">
+    프로그램 메인 화면
+  </div>
 </div>
 
 <br>
