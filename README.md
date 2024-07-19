@@ -20,6 +20,7 @@
 
 ## 개발 인원
 
+> 아이디어 공유 및 개별 개발 진행.
 > | 우승훈 | 장채윤 |
 > | :------: | :------: |
 > | [<img src="https://github.com/user-attachments/assets/1adb797b-7b40-4eee-bb6b-246e9488dcce" width="175" height="175"> <br> @bluewhale36](http://github.com/bluewhale36) | [@guncat-02](http://github.com/guncat-02) |
@@ -37,11 +38,11 @@
 ## 주요 기능
 
 ### Java : JDK 1.8
-- javax.swing package를 이용하여 그래픽 기반의 유저 인터페이스 구현
-  - 상속을 통해 컨테이너 객체를 상속 받은 클래스에 컴포넌트 객체를 배치하여 GUI 구성
-  - 컴포넌트 객체 배치를 위해 Layout 개념 이해
-- awt.event package를 이용하여 GUI상에서 발생한 Event 처리
-  - ActionListener 등 인터페이스 구현을 통해 method 재정의하여 특정 Event 처리 코드 구현
-- DB Connection을 얻는 클래스를 별도 분리하여 DAO 클래스에서의 사용성 확장
+- javax.swing package를 이용하여 그래픽 기반의 유저 인터페이스 구현.
+  - 상속을 통해 컨테이너 객체를 상속 받은 클래스에 컴포넌트 객체를 배치하여 GUI 구성.
+  - 컴포넌트 객체 배치를 위해 Layout 개념 이해.
+- awt.event package를 이용하여 GUI상에서 발생한 Event 처리.
+  - ActionListener 등 인터페이스 구현을 통해 method 재정의하여 특정 Event 처리 코드 구현.
+- DB Connection을 얻는 클래스를 별도 분리하여 DAO 클래스에서의 사용성 확장.
 ### Oracle : oracle-xe-11gR2
 - trigger
