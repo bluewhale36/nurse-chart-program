@@ -44,6 +44,12 @@
 
 <br>
 
+## ERD
+
+<img width="75%" src="https://github.com/user-attachments/assets/be2d1cc4-f937-402b-b267-6aa9756a91fa">
+
+<br>
+
 ## 주요 기능
 
 ### Java : JDK 1.8
