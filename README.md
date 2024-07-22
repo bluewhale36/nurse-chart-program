@@ -32,7 +32,7 @@
 > 아이디어 공유 및 개별 개발 진행.
 > | 우승훈 | 장채윤 |
 > | :------: | :------: |
-> | [<img src="https://github.com/user-attachments/assets/1adb797b-7b40-4eee-bb6b-246e9488dcce" width="175" height="175"> <br> @bluewhale36](http://github.com/bluewhale36) | [@guncat-02](http://github.com/guncat-02) |
+> | [<img src="https://github.com/user-attachments/assets/1adb797b-7b40-4eee-bb6b-246e9488dcce" width="175" height="175"> <br> @bluewhale36](http://github.com/bluewhale36) | [<img src="https://github.com/user-attachments/assets/f9c7b711-ec87-4dbf-b7a1-cbb498976efe" height=175 width=175> <br/> @guncat-02](https://github.com/guncat-02) |
 
 <br>
 
