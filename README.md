@@ -42,6 +42,14 @@
 > | :---: | :---: | :---: | :---: |
 > | <img src="https://img.shields.io/badge/Java-F80000?style=flat&logoColor=white"/> | <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/> | <img src="https://img.shields.io/badge/JDBC-F80000?style=flat&logoColor=white"/> | <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/> |
 
+### Java : JDK 1.8
+- javax.swing package를 이용하여 그래픽 기반의 유저 인터페이스 구현.
+  - 상속을 통해 컨테이너 객체를 상속 받은 클래스에 컴포넌트 객체를 배치하여 GUI 구성.
+  - 컴포넌트 객체 배치를 위해 Layout 개념 이해.
+- awt.event package를 이용하여 GUI상에서 발생한 Event 처리.
+  - ActionListener 등 인터페이스 구현을 통해 method 재정의하여 특정 Event 처리 코드 구현.
+- DB Connection을 얻는 클래스를 별도 분리하여 DAO 클래스에서의 사용성 확장.
+
 <br>
 
 ## ERD
@@ -52,25 +60,23 @@
 
 ## 주요 기능
 
-### Java : JDK 1.8
-- javax.swing package를 이용하여 그래픽 기반의 유저 인터페이스 구현.
-  - 상속을 통해 컨테이너 객체를 상속 받은 클래스에 컴포넌트 객체를 배치하여 GUI 구성.
-  - 컴포넌트 객체 배치를 위해 Layout 개념 이해.
-- awt.event package를 이용하여 GUI상에서 발생한 Event 처리.
-  - ActionListener 등 인터페이스 구현을 통해 method 재정의하여 특정 Event 처리 코드 구현.
-- DB Connection을 얻는 클래스를 별도 분리하여 DAO 클래스에서의 사용성 확장.
-
 ### 환자 관리
-- 사용자는 간호사 메뉴 선택 시 환자를 관리 할 수 있습니다.
-- 환자 등록 메뉴 또는 접수 메뉴를 통해 환자를 접수 시킬 수 있습니다.
-- 환자의 접수 상태를 변경 할 수 있습니다. (진료 대기, 진료 중, 예약, 완료, 취소)
-- 환자를 이름으로 검색하여 환자의 진료 기록을 확인 할 수 있습니다.
+- 사용자는 간호사 메뉴 선택 시 환자를 관리 할 수 있음.
+- 환자 등록 메뉴 또는 접수 메뉴를 통해 환자를 접수 할 수 있음.
+- 환자의 접수 상태를 변경 할 수 있음. (진료 대기, 진료 중, 예약, 완료, 취소)
+- 환자를 이름으로 검색하여 환자의 진료 기록을 확인 할 수 있음.
 
 ### 메모
-- 간호사는 환자에 대한 메모를 남길 수 있습니다.
-- 환자 선택 시 환자에 대한 메모 기록을 볼 수 있습니다.
+- 간호사는 환자에 대한 메모를 남길 수 있음.
+- 환자 선택 시 환자에 대한 메모 기록을 볼 수 있음.
 
 ### 수납
-- 간호사는 환자의 수납 여부를 확인 할 수 있습니다.
-- 수납 여부에 따라 수납을 진행 할 수 있습니다.
-- 수납금, 결제수단을 간호사가 입력할 수 있습니다.
+- 간호사는 환자의 수납 여부를 확인 할 수 있음.
+- 수납 여부에 따라 수납을 진행 할 수 있음.
+- 수납금, 결제수단을 간호사가 입력할 수 있음.
+
+<br>
+
+## 성과
+- 객체지향언어의 특징을 이해하고 활용함.
+- 객체의 생성과 소멸을 이해함.
