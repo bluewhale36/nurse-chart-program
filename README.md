@@ -43,12 +43,12 @@
 > | <img src="https://img.shields.io/badge/Java-F80000?style=flat&logoColor=white"/> | <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/> | <img src="https://img.shields.io/badge/JDBC-F80000?style=flat&logoColor=white"/> | <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/> |
 
 ### Java : JDK 1.8
-- javax.swing package를 이용하여 그래픽 기반의 유저 인터페이스 구현.
-  - 상속을 통해 컨테이너 객체를 상속 받은 클래스에 컴포넌트 객체를 배치하여 GUI 구성.
-  - 컴포넌트 객체 배치를 위해 Layout 개념 이해.
-- awt.event package를 이용하여 GUI상에서 발생한 Event 처리.
-  - ActionListener 등 인터페이스 구현을 통해 method 재정의하여 특정 Event 처리 코드 구현.
-- DB Connection을 얻는 클래스를 별도 분리하여 DAO 클래스에서의 사용성 확장.
+- <code>javax.swing</code> package를 이용하여 그래픽 기반의 유저 인터페이스를 구현함.
+  - 상속을 통해 컨테이너 객체를 상속 받은 클래스에 컴포넌트 객체를 배치하여 GUI를 구성함.
+  - 컴포넌트 객체 배치를 위해 Layout 개념을 이해하고 활용함.
+- <code>awt.event</code> package를 이용하여 GUI상에서 발생한 Event를 처리함.
+  - ActionListener 등 인터페이스 구현을 통해 method 재정의하여 특정 Event 처리 로직을 구현함.
+- DB Connection을 얻는 클래스를 별도 분리하여 DAO 클래스에서의 사용성을 확장함.
 
 <br>
 
@@ -78,5 +78,5 @@
 <br>
 
 ## 성과
-- 객체지향언어의 특징을 이해하고 활용함.
+- 순수 객체지향언어 기반의 프로젝트를 진행함으로써, 객체지향언어의 특징을 이해하고 활용함.
 - 객체의 생성과 소멸을 이해함.
